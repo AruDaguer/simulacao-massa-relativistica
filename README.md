@@ -24,7 +24,7 @@ Este repositório contém a simulação desenvolvida para o trabalho de física 
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/simulacao-massa-relativistica.git](https://github.com/SEU-USUARIO/simulacao-massa-relativistica.git)
+   git clone [https://github.com/AruDaguer/simulacao-massa-relativistica.git](https://github.com/AruDaguer/simulacao-massa-relativistica.git)
 
 2. Instale as dependências:
    ```bash
